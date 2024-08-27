@@ -12,7 +12,9 @@
 ### Установка
 1. Клонируйте репозиторий.
 2. Настройте базу данных:
-   ```sql
+   
+   Используйте фаил base.sql
+
    CREATE DATABASE todo_list_db;
 
    CREATE TABLE tasks (
