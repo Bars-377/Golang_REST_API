@@ -16,6 +16,7 @@ To-Do List API
     Настройте базу данных, используя файл base.sql:
 
     ```sql
+    
     CREATE DATABASE todo_list_db;
 
     CREATE TABLE tasks (
@@ -26,6 +27,7 @@ To-Do List API
         created_at TIMESTAMPTZ DEFAULT NOW(),
         updated_at TIMESTAMPTZ DEFAULT NOW()
     );
+    
     Запустите проект:
     go run main.go
 
