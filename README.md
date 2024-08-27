@@ -11,8 +11,8 @@ To-Do List API
 Установка:
 
     Клонируйте репозиторий:
+    git clone https://github.com/Bars-377/Golang_REST_API.git
 
-    git clone https://github.com/ваш-репозиторий.git
     Настройте базу данных, используя файл base.sql:
 
     ```sql
